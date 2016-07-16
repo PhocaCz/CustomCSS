@@ -7,8 +7,10 @@ administrator/templates/isis/css/ folder
 
 custom.css will be automatically loaded.
 
-![alt tag](https://raw.githubusercontent.com/phoca/customcss/branch/path/to/custom_css_global_configuration.png)
-
+Global Configuration
 ![alt tag](https://github.com/PhocaCz/CustomCSS/blob/master/screenshots/custom_css_global_configuration.png?raw=true)
 
-[[https://github.com/PhocaCz/CustomCSS/blob/master/screenshots/custom_css_global_configuration.png?raw=true|alt=articles]]
+Articles:
+![alt tag](https://github.com/PhocaCz/CustomCSS/blob/master/screenshots/custom_css_articles.png?raw=true)
+
+
