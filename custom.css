@@ -92,6 +92,11 @@
 	border: 1px solid #942a25;
 	background: #942a25;
 }
+
+.btn-warning {
+	border: 1px solid #C67605;
+	background: #C67605;
+}
 .btn-micro {
 	background: #fff;
 	border: 1px solid #f2f2f2;
