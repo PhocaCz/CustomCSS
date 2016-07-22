@@ -67,14 +67,15 @@
 
 .btn-toolbar .btn-success,
 .btn-success {
-    background-color: #409740;
     background-image: none;
     background-repeat: none;
-    border: 0px;
     color: #fff;
 	box-shadow: none;
+	border: 1px solid #378137;
+	background: #378137;
 }
 
+.btn-toolbar .btn-primary,
 .btn-primary {
 	background-image: none;
     background-repeat: none;
@@ -84,19 +85,17 @@
 	background-color: #15497C;
 }
 
-.btn-success {
-	border: 1px solid #378137;
-	background: #378137;
-}
+.btn-toolbar .btn-danger,
 .btn-danger {
 	border: 1px solid #942a25;
 	background: #942a25;
 }
-
+.btn-toolbar .btn-warning,
 .btn-warning {
 	border: 1px solid #C67605;
 	background: #C67605;
 }
+
 .btn-micro {
 	background: #fff;
 	border: 1px solid #f2f2f2;
