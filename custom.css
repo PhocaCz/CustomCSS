@@ -223,6 +223,11 @@ table.table-striped tr th, table.table-striped tr th a {
 	border: 1px solid #DEDEDE;
 }
 
+.input-append .add-on, .input-append .btn, .input-append .btn-group > .dropdown-toggle {
+    border-radius: 0 3px 3px 0;
+    vertical-align: top;
+}
+
 .ph-options-head {
 	border: 0px;
 	border-radius: 3px;
