@@ -90,10 +90,17 @@
 	border: 1px solid #942a25;
 	background: #942a25;
 }
+
 .btn-toolbar .btn-warning,
 .btn-warning {
 	border: 1px solid #C67605;
 	background: #C67605;
+}
+
+.btn-toolbar .btn-info,
+.btn-info {
+	border: 1px solid #24748C;
+	background: #24748C;
 }
 
 .btn-micro {
