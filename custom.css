@@ -171,7 +171,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 }
 
 .btn-toolbar .chzn-container-single .chzn-single {
-   /* background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffffff 20%, #f6f6f6 50%, #eeeeee 52%, #f4f4f4 100%) repeat scroll 0 0 padding-box;*/
+	/* background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffffff 20%, #f6f6f6 50%, #eeeeee 52%, #f4f4f4 100%) repeat scroll 0 0 padding-box;*/
 	border: 1px solid #DEDEDE;
 	/*box-shadow: 0 0 3px white inset, 0 1px 1px rgba(0, 0, 0, 0.1);*/
 	box-shadow: none;
@@ -225,9 +225,9 @@ table.table-striped tr th, table.table-striped tr th a {
 }
 
 .select2-container .select2-choice .select2-arrow {
-   border-left: 1px solid #f2f2f2;
-   background-image: none;
-   background: #fff;
+	border-left: 1px solid #f2f2f2;
+	background-image: none;
+	background: #fff;
 }
 
 .input-append .add-on, .input-prepend .add-on {
