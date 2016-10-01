@@ -94,6 +94,16 @@
 
 }
 
+.btn-info {
+	background-image: none;
+    background-repeat: none;
+    color: #fff;
+	box-shadow: none;
+	border: 1px solid #24748C;
+	background-color: #24748C;
+
+}
+
 .btn-success {
 	border: 1px solid #378137;
 	background: #378137;
